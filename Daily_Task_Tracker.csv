@@ -1,0 +1,9 @@
+﻿日期,Day,模块,任务,状态,完成结果,卡点,下一步
+2026-05-20,Day 1,项目启动,创建 HeWei_UE_AIAgentDemo 项目,已完成,项目已创建,,
+2026-05-20,Day 1,项目启动,整理 Content 目录结构,已完成,"AI / Blueprints / Characters / Docs / Interaction / Maps / UI 已创建",,
+2026-05-20,Day 1,项目启动,创建 L_AIAgent_Test 测试地图,已完成,测试地图已创建,,
+2026-05-20,Day 1,项目启动,确认角色能在测试地图运行,已完成,角色可以移动运行,,
+2026-05-20,Day 1,问题记录,找到 Place Actors 放置 Actor 入口,已完成,,放置 Actor 界面没找到,"以后优先查顶部菜单、Add 添加按钮、Outliner/Content Browser 搜索"
+2026-05-21,Day 2,基础概念,写 Actor/Pawn/Character/PlayerController 概念笔记,待完成,,,用自己的话写一句 Unity 对比
+2026-05-21,Day 2,交互系统,创建 BP_InteractBox 可交互盒子蓝图,待完成,,,放到 Content/Interaction
+2026-05-21,Day 2,交互系统,把 BP_InteractBox 拖入 L_AIAgent_Test 地图,待完成,,,先不做 Line Trace 和 E 键交互

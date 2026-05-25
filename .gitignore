@@ -1,0 +1,39 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# IDE and editor files
+*.sln
+*.VC.db
+*.opensdf
+*.opendb
+.vscode/
+.idea/
+
+# Build artifacts
+Build/
+*.target
+*.modules
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Keep project source assets and config
+!Config/
+!Content/
+!Source/
+!Plugins/
+!*.uproject
